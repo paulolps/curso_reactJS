@@ -1,0 +1,12 @@
+[
+  {
+    "id_departamento": 1,
+    "nome": "Nome Departamento",
+    "sigla": "ND"
+  },
+  {
+    "id_departamento": 1,
+    "nome": "A Departamento",
+    "sigla": "AD"
+  }
+]
